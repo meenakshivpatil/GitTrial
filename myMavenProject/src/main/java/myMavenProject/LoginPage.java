@@ -5,6 +5,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.testng.Assert;
 import org.testng.annotations.*;
+import myMavenProject.PageFactoryExample;
 
 public class LoginPage {
 	//public WebDriver driver;
