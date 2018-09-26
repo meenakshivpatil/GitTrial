@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="12330" started-at="2018-09-25T18:09:57Z" finished-at="2018-09-25T18:10:10Z">
+  <suite name="Default suite" duration-ms="26000" started-at="2018-09-26T02:17:03Z" finished-at="2018-09-26T02:17:29Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="12330" started-at="2018-09-25T18:09:57Z" finished-at="2018-09-25T18:10:10Z">
+    <test name="Default test" duration-ms="26000" started-at="2018-09-26T02:17:03Z" finished-at="2018-09-26T02:17:29Z">
       <class name="myMavenProject.PageFactoryExample">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:myMavenProject.PageFactoryExample@6121c9d6]" name="setUp" is-config="true" duration-ms="9475" started-at="2018-09-25T18:09:57Z" finished-at="2018-09-25T18:10:07Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:myMavenProject.PageFactoryExample@eafc191]" name="setUp" is-config="true" duration-ms="13221" started-at="2018-09-26T02:17:03Z" finished-at="2018-09-26T02:17:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginActiTimeApp()[pri:0, instance:myMavenProject.PageFactoryExample@6121c9d6]" name="loginActiTimeApp" duration-ms="2425" started-at="2018-09-25T18:10:07Z" finished-at="2018-09-25T18:10:09Z">
+        <test-method status="PASS" signature="loginActiTimeApp()[pri:0, instance:myMavenProject.PageFactoryExample@eafc191]" name="loginActiTimeApp" duration-ms="12401" started-at="2018-09-26T02:17:16Z" finished-at="2018-09-26T02:17:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginActiTimeApp -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:myMavenProject.PageFactoryExample@6121c9d6]" name="tearDown" is-config="true" duration-ms="411" started-at="2018-09-25T18:10:09Z" finished-at="2018-09-25T18:10:10Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:myMavenProject.PageFactoryExample@eafc191]" name="tearDown" is-config="true" duration-ms="362" started-at="2018-09-26T02:17:28Z" finished-at="2018-09-26T02:17:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
